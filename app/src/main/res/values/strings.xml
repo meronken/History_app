@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">中学歴史 一問一答</string>
+    <string name="app_title">歴史</string>
+    <string name="button1">"旧石器〜弥生　  　全40問"</string>
+    <string name="button2">"古墳〜奈良　　  　全55問"</string>
+    <string name="button3">"平安〜室町　　  　全90問"</string>
+    <string name="button4">"安土桃山〜江戸  　全120問"</string>
+    <string name="button5">"明治〜大正　　  　全90問"</string>
+    <string name="button6">"昭和〜平成　　  　全45問"</string>
+    <string name="button7">ランダム</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="num">1/30</string>
+    <string name="ans">答え</string>
+    <string name="result">結果</string>
+    <string name="home">もどる</string>
+</resources>
